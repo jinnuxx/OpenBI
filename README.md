@@ -21,15 +21,38 @@ the platform ensures the usefulness of openBI.
 
 
 # Screenshoots
-<img width="462" alt="image" src="https://github.com/jinnuxx/OpenBI/assets/101884091/b8e051b6-b1aa-4138-b92b-560558a33646">
-<img width="462" alt="image" src="https://github.com/jinnuxx/OpenBI/assets/101884091/93a05de5-f743-4c34-8bbc-115fed5fe609">
-<img width="462" alt="image" src="https://github.com/jinnuxx/OpenBI/assets/101884091/b64aca00-3c48-4b55-9a7d-d1bfb5002e43">
-<img width="462" alt="image" src="https://github.com/jinnuxx/OpenBI/assets/101884091/7e0d3924-2288-4c0e-838c-686aacff1011">
-<img width="462" alt="image" src="https://github.com/jinnuxx/OpenBI/assets/101884091/80df49c8-5788-48c9-a9c7-089343702bcd">
-<img width="462" alt="image" src="https://github.com/jinnuxx/OpenBI/assets/101884091/d4c6f6cc-499b-43ae-843a-dd2c91be9a43">
-<img width="462" alt="image" src="https://github.com/jinnuxx/OpenBI/assets/101884091/c182abef-a9d1-4382-9810-041a81a1d2f7">
-<img width="462" alt="image" src="https://github.com/jinnuxx/OpenBI/assets/101884091/0665b6b8-98dc-4af3-8288-ec4b2fe4f9b0">
-<img width="462" alt="image" src="https://github.com/jinnuxx/OpenBI/assets/101884091/9f4e9493-1e76-4688-b72b-81b940193388">
+Login Page
+<img width="462" alt="image" src="https://github.com/jinnuxx/OpenBI/assets/101884091/b3e1bc43-fdf9-4104-be4f-36a4884babce">
+Welcome Page
+<img width="462" alt="image" src="https://github.com/jinnuxx/OpenBI/assets/101884091/427dd652-b0c1-4eb6-b734-e29064687186">
+New Analysis
+<img width="462" alt="image" src="https://github.com/jinnuxx/OpenBI/assets/101884091/5af8baad-6311-4ddd-b0d9-7f520a22e613">
+User Guide (Tutorial to start analysis)
+<img width="462" alt="image" src="https://github.com/jinnuxx/OpenBI/assets/101884091/cb42da51-800f-4fd0-8d7a-74c2cfe1903c">
+Guess number game for user to play while waiting the analysis result
+<img width="462" alt="image" src="https://github.com/jinnuxx/OpenBI/assets/101884091/b3efba65-3720-4272-aa6a-53e6cd5c03e6">
+Analysis History Page
+<img width="462" alt="image" src="https://github.com/jinnuxx/OpenBI/assets/101884091/027fbbbb-f8aa-4e28-b207-6c173c4ab377">
+Detail of Charts 
+<img width="462" alt="image" src="https://github.com/jinnuxx/OpenBI/assets/101884091/5bc88f00-de73-4233-849e-2b6c02133ba5">
+Modify the Chart
+<img width="462" alt="image" src="https://github.com/jinnuxx/OpenBI/assets/101884091/2a30d4cb-d84a-4cce-8e7e-a36e8b080743">
+Full Screen View
+<img width="462" alt="image" src="https://github.com/jinnuxx/OpenBI/assets/101884091/343c1dd2-8602-49c1-be23-149c1e4c2034">
+Resources
+<img width="462" alt="image" src="https://github.com/jinnuxx/OpenBI/assets/101884091/b80872e9-8131-4f40-ad71-0acd2b89a9ea">
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
