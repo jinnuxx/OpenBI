@@ -1,7 +1,7 @@
 # OpenBI
 The OpenBI project focuses on the development of an intelligent data analytics platform that uses artificial intelligence (AI) to automatically generate visualisations and detailed analysis reports.
 
-#Aims
+# Aims
 Generalization of data analysis: OpenBI aims to make data analysis more broadly
 accessible to a wide range of audience groups. The platform enables users from different
 professions to effectively analyze data for different purposes.
