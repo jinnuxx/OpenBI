@@ -21,7 +21,7 @@ the platform ensures the usefulness of openBI.
 
 
 # Screenshoots
-Login Page
+<p>Login Page</p>
 <img width="462" alt="image" src="https://github.com/jinnuxx/OpenBI/assets/101884091/b3e1bc43-fdf9-4104-be4f-36a4884babce">
 Welcome Page
 <img width="462" alt="image" src="https://github.com/jinnuxx/OpenBI/assets/101884091/427dd652-b0c1-4eb6-b734-e29064687186">
