@@ -1,6 +1,11 @@
 # OpenBI
 The OpenBI project was developed collaboratively with five teammates as a course assignment. It focuses on the development of an intelligent data analytics platform that uses artificial intelligence (AI) to automatically generate visualisations and detailed analysis reports.
 
+# Technologies Used
+React, JavaScript, JavaScript XML, UMI JS, Spring Boot, Java, AWS Database
+
+
+
 # Aims
 Generalization of data analysis: OpenBI aims to make data analysis more broadly
 accessible to a wide range of audience groups. The platform enables users from different
