@@ -14,7 +14,7 @@ Database name: bi
 Host: openbi-elec5619-openbi.aivencloud.com
 Port: 24356
 User: avnadmin
-Password:
+Password: 
 ```
 
 3) API Document

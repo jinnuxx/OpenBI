@@ -1,0 +1,29 @@
+.container-aboutus{
+    width: 100%;
+    display: flex;
+    padding: 100px;
+  }
+
+.head{
+    font-size: 36px;
+
+}
+
+.image-container {
+flex: 1;
+padding: 20px;
+}
+
+.content-container{
+    flex: 1; 
+    padding: 20px; 
+}
+
+.horizontal-line {
+    border-top: 1px solid rgb(162, 162, 162); /* 设置分割线的样式，例如实线和颜色 */
+    margin-bottom: 15px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 80px;
+    width: 100%;
+  }

@@ -1,0 +1,92 @@
+.container{
+  width: 100%;
+  display: flex;
+}
+.head-container{
+  padding-left: 0px;
+}
+
+.form-container {
+  flex: 1;
+  padding: 0px;
+}
+
+.image-container {
+  flex: 1;
+  padding: 0px;
+}
+
+.wrapper {
+    position:relative;
+    margin-bottom: 30px;
+  }
+
+.icon {
+  /* height: 1.5rem;
+  width: 1.5rem; */
+  /* padding: 4px; */
+  position: absolute;
+  box-sizing:border-box;
+  top:50%;
+  left:15px;
+  transform: translateY(-50%);
+}
+
+.input {
+  height: 50px;
+  width: 95%;
+  box-sizing:border-box;
+  padding: 20px;
+  padding-left: 50px;
+  border: 0;
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+}
+
+.textarea{
+  border: 0;
+  width: 95%;
+  height: 200px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.submitButton {
+  border: 0;
+  width: 95%;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+  background-color: rgba(88,142,220,255);
+  background-image: linear-gradient(to top left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0));
+  box-shadow:
+    inset 2px 2px 3px rgba(255, 255, 255, 0.6),
+    inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+}
+
+.submitButton:hover {
+  background-color: rgba(176,208,252,255);
+}
+
+.submitButton:active {
+  box-shadow:
+    inset -2px -2px 3px rgba(255, 255, 255, 0.6),
+    inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+}
+
+.custom-opacity{
+  opacity: 0.7;
+}
+
+.horizontal-line {
+  border-top: 1px solid rgb(198, 198, 198); /* 设置分割线的样式，例如实线和颜色 */
+  margin-bottom: 15px;
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-right: 80px;
+  width: 100%;
+}
