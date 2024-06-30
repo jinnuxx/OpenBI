@@ -2,7 +2,7 @@
 The OpenBI project was developed collaboratively with five teammates as a course assignment. It focuses on the development of an intelligent data analytics platform that uses artificial intelligence (AI) to automatically generate visualisations and detailed analysis reports.
 
 # Technologies Used
-React, JavaScript, TypeScript XML, UMI JS, Spring Boot, Java, AWS Database
+React, JavaScript, TypeScript XML, UMI JS, AI model(ChatGPT), Spring Boot, Java, AWS Database
 
 
 
